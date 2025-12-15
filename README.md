@@ -42,4 +42,4 @@ The lakehouse follows a three-zone architecture:
 
 ## Notes
 - Glue Studio SQL Query transform nodes were used to ensure consistent joins.
-- Parquet format was used for Trusted and Curated zones to optimize Athena queries.
+
